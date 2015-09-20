@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>LSUIElement</key>
-	<true/>
 	<key>CFBundleAllowMixedLocalizations</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -36,7 +34,7 @@
 		<key>bundleDividerCollapsed</key>
 		<true/>
 		<key>bundlePositionOfDivider</key>
-		<real>0</real>
+		<real>0.0</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
